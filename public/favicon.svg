@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RN Collins">
+  <rect width="64" height="64" rx="10" fill="#0d0d0d"/>
+  <path d="M46 0h18v64H46z" fill="#ff4438"/>
+  <path d="M51 0h13v13z" fill="#1264f4"/>
+  <text x="7" y="41" fill="#f3efe7" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" letter-spacing="-3">RN</text>
+  <path d="M40 14 28 51" stroke="#ff4438" stroke-width="4" stroke-linecap="square"/>
+</svg>
