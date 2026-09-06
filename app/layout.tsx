@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
     shortcut: "/favicon.svg",
+    // Declaring `icons` at all opts out of Next's file-convention detection, so
+    // app/apple-icon.png was being generated and served and never linked.
+    apple: [{ url: "/apple-icon.png", sizes: "180x180", type: "image/png" }],
   },
   alternates: { canonical: "/" },
   openGraph: {
