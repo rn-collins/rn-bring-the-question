@@ -23,13 +23,13 @@ export const metadata: Metadata = {
     title: "RN Collins — Bring Me the Question",
     description: "Research, strategy, and building for people standing at the edge of what is next.",
     siteName: "RN Collins",
-    images: [{ url: "https://rn-bring-the-question.rayven-nikkita-colli.chatgpt.site/rn-bring-the-question-thumbnail.png", width: 1672, height: 941, alt: "RN Collins in a commanding editorial portrait using the site’s black, red, blue, and warm-paper palette" }],
+    images: [{ url: "https://rn-bring-the-question.vercel.app/rn-bring-the-question-thumbnail.png", width: 1672, height: 941, alt: "RN Collins in a commanding editorial portrait using the site’s black, red, blue, and warm-paper palette" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "RN Collins — Bring Me the Question",
     description: "Research, strategy, and building for people standing at the edge of what is next.",
-    images: ["https://rn-bring-the-question.rayven-nikkita-colli.chatgpt.site/rn-bring-the-question-thumbnail.png"],
+    images: ["https://rn-bring-the-question.vercel.app/rn-bring-the-question-thumbnail.png"],
   },
   robots: { index: true, follow: true },
 };
@@ -37,10 +37,10 @@ export const metadata: Metadata = {
 const structuredData = {
   "@context": "https://schema.org",
   "@type": ["Person", "ProfessionalService"],
-  name: "Rayven-Nikkita ‘RN’ Collins",
+  name: "RN Collins",
   alternateName: "RN Collins",
   url: "https://rn-bring-the-question.vercel.app",
-  image: "https://rn-bring-the-question.rayven-nikkita-colli.chatgpt.site/rn-collins-portrait.png",
+  image: "https://rn-bring-the-question.vercel.app/rn-collins-portrait.png",
   email: "mailto:collins.ra@northeastern.edu",
   sameAs: ["https://www.linkedin.com/in/rn-collins", "https://rn-selected-work.vercel.app"],
   areaServed: "Worldwide",
