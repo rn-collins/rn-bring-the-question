@@ -74,7 +74,7 @@ export default function Synthesis() {
     </section>
 
     <section className="about" id="about" data-reveal>
-      <img className="portrait" src="https://rn-bring-the-question.rayven-nikkita-colli.chatgpt.site/rn-collins-portrait.png" alt="Portrait of RN Collins" />
+      <img className="portrait" src="/rn-collins-portrait.png" alt="Portrait of RN Collins" />
       <div className="aboutCopy"><p className="eyebrow">RN COLLINS · RESEARCHER · STRATEGIST · BUILDER</p><h2>Multidisciplinary researcher, strategist, and builder.</h2><p className="standfirst">Aloha—I’m RN. I work on questions too messy for one field.</p><p>My instinct is to look for the hidden architecture: the human behavior, evidence, incentives, language, systems, and implementation conditions shaping what can happen next. I make the real question visible, enlarge the field of possibility, and help carry the right idea into execution.</p><p>My background spans psychology, developmental science, anatomy and neurobiology, medical education, psychedelic science, technology transfer, emerging technology, and law. I hold degrees from the University of Pennsylvania, CUNY, and Boston University, and I am completing my J.D. at Northeastern University School of Law. What clients hire is not a list of credentials—it is my ability to connect them, see the whole system, and move from inquiry to execution.</p><a className="textLink" href="https://rn-selected-work.vercel.app" target="_blank" rel="noreferrer">EXPLORE RN SELECTED WORKS ↗</a></div>
     </section>
 
@@ -83,6 +83,6 @@ export default function Synthesis() {
     <section className="conversation" data-reveal><p className="eyebrow">CONVERSATIONS THAT BECOME THINGS</p><h2>A practice built around a good conversation.</h2><p>You do not need a polished brief. Bring the question, the friction, the unfinished thought, or the thing everyone keeps working around.</p></section>
 
     <section className="contact" id="contact" data-reveal><p className="eyebrow">NO. 03 — BEGIN</p><div className="contactHead"><h2>What’s on<br/>your mind?</h2><p>The first conversation is complimentary. Bring the question—even if you cannot name it yet.</p></div><ContactForm tone="dark" /></section>
-    <footer><b>RN/C</b><span>© 2026 Rayven-Nikkita Collins LLC</span><a href="#top">BACK TO TOP ↑</a></footer>
+    <footer><b>RN/C</b><span>© 2026 RN Collins</span><a href="#top">BACK TO TOP ↑</a></footer>
   </main>;
 }
